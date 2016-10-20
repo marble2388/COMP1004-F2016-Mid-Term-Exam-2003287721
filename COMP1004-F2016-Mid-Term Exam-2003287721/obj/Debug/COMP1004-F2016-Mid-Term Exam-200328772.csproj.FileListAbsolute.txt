@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\bin\Debug\COMP123-S2016-Lesson13.exe.config
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\bin\Debug\COMP123-S2016-Lesson13.exe
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\bin\Debug\COMP123-S2016-Lesson13.pdb
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\bin\Debug\FontAwesome.Sharp.dll
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004-F2016-Mid-Term Exam-200328772.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004_F2016_Mid_Term_Exam_2003287721.AbilityGeneratorForm.resources
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004_F2016_Mid_Term_Exam_2003287721.AboutBox.resources
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004_F2016_Mid_Term_Exam_2003287721.FinalForm.resources
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004_F2016_Mid_Term_Exam_2003287721.GenerateNameForm.resources
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004_F2016_Mid_Term_Exam_2003287721.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004_F2016_Mid_Term_Exam_2003287721.RaceAndClassForm.resources
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004_F2016_Mid_Term_Exam_2003287721.SplashForm.resources
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP1004-F2016-Mid-Term Exam-200328772.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP123-S2016-Lesson13.exe
+c:\users\user\documents\visual studio 2015\Projects\COMP1004-F2016-Mid-Term Exam-2003287721\COMP1004-F2016-Mid-Term Exam-2003287721\obj\Debug\COMP123-S2016-Lesson13.pdb
